@@ -1,9 +1,0 @@
-{
-	"name": "gofastdatafactory1",
-	"location": "eastus",
-	"identity": {
-		"type": "SystemAssigned",
-		"principalId": "f53c0a96-d391-4f4b-aab9-80ef5cdbfb68",
-		"tenantId": "44358024-9b44-4e83-b5a5-73e72aa3c19d"
-	}
-}
